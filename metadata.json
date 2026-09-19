@@ -1,0 +1,11 @@
+{
+  "name": "SpeakReady AI",
+  "description": "Modern AI public speaking coach for first-year college students to practice speech delivery, reduce filler words, and prepare for classroom presentations with supportive AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
